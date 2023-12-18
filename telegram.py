@@ -1,3 +1,6 @@
+# 1 sudo apt-get install python-pip
+# 2 sudo pip install telepot
+
 import time, datetime
 import RPi.GPIO as GPIO
 import telepot
